@@ -1,1 +1,4 @@
-
+enable the user to login  with their credentials , if the user is new enable them to register a new account 
+validation required tom check whether  the user is already existed one whilst registering a new account
+create a table design  for  user information
+well designed ui required for login page
